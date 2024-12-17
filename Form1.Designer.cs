@@ -61,12 +61,12 @@
             // 
             // checkBox1
             // 
-            checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(571, 227);
+            checkBox1.Location = new Point(555, 227);
             checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(130, 19);
+            checkBox1.Size = new Size(146, 24);
             checkBox1.TabIndex = 2;
             checkBox1.Text = "Mostrar Contraseña";
+            checkBox1.TextAlign = ContentAlignment.MiddleCenter;
             checkBox1.UseVisualStyleBackColor = true;
             // 
             // linkLabel1
